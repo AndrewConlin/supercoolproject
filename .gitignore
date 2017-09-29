@@ -5,4 +5,6 @@ bin
 .metadata
 .gradle
 Servers
+.classpath
+.settings
 .recommenders
